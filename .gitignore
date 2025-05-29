@@ -1,0 +1,8 @@
+tb
+*/test/*.out
+tb
+*.vcd
+.DS_Store
+build/
+saida.out
+*.out
